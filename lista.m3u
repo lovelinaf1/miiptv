@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="TV Pública" group-title="Argentina",TV Pública
+https://stream1.tvpublica.com.ar/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="Canal 26" group-title="Noticias",Canal 26
+https://panel.canal26.com/hls/canal26.m3u8
+
+#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
+https://streaming.c5n.com/hls/c5n.m3u8
+
+#EXTINF:-1 tvg-name="Radio Con Vos" group-title="Radios",Radio Con Vos
+https://streaming.convos.com.ar/radio.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="disney2" tvg-name="Disney2-19" group-title="Deportes",Disney2 - AlAngulo
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MjI1NzVlMTk0OTcxLWMyZjktNTNkNC1mNzM4LTE0YzEzODJm/master.m3u8?md5=3H9qGuIma-JAe1pSQbbpsg&expires=1744478612
